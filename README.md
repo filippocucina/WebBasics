@@ -1,2 +1,2 @@
 # WebBasics
-Some Introduction to the Web
+Basics of Programming from Platzi. A free course.
